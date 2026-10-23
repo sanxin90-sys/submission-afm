@@ -1,0 +1,11 @@
+estacao,pontos,interpolados,Rn_media,T_media_C,procedimento,a_A1,g_A1,rmse_K,tau_h,aR_sobre_gT4,palpite,no_limite,avaliacoes
+seca,4416,1,144.25,26.992,publicado (Tabela I),1.1588,2.05e-08,3.66,125.29,1.0036,,,
+seca,4416,1,144.25,26.992,artigo1 (L-BFGS-B bruto),1.1596,2.0402e-08,3.4126,125.89,1.009,"(1.2, 1e-08)",False,192
+seca,4416,1,144.25,26.992,otimo (Nelder-Mead em log),0.77875,1.3685e-08,3.1429,187.67,1.0103,"(1.2, 1e-08)",,160
+seca,4416,1,144.25,26.992,otimo (Nelder-Mead em log),0.77875,1.3685e-08,3.1429,187.67,1.0103,"(0.7, 1.2e-08)",,141
+seca,4416,1,144.25,26.992,otimo (Nelder-Mead em log),0.77875,1.3685e-08,3.1429,187.67,1.0103,"(0.3, 4e-09)",,151
+chuvosa,4367,10,108.95,24.521,publicado (Tabela I),0.271,3.75e-09,2.5693,702.1,1.0025,,,
+chuvosa,4367,10,108.95,24.521,artigo1 (L-BFGS-B bruto),0.26926,3.7661e-09,2.5191,699.09,0.9918,"(0.2, 1e-08)",False,249
+chuvosa,4367,10,108.95,24.521,otimo (Nelder-Mead em log),0.077145,1.0689e-09,2.1915,2463.2,1.0012,"(0.2, 1e-08)",,159
+chuvosa,4367,10,108.95,24.521,otimo (Nelder-Mead em log),0.077145,1.0689e-09,2.1915,2463.2,1.0012,"(0.7, 1.2e-08)",,219
+chuvosa,4367,10,108.95,24.521,otimo (Nelder-Mead em log),0.077145,1.0689e-09,2.1915,2463.2,1.0012,"(0.3, 4e-09)",,160

@@ -1,0 +1,43 @@
+sitio,estacao,protocolo,palpite,fator_limite,a0_A1,g0_A1,palpite_alternativo,a_A1,g_A1,a_h,g_h,tau_h,rmse_K,tipo_rmse,no_limite,avaliacoes,dias,vies_K
+jaru,chuvosa,art1,A1_seca,40,1.2,1e-08,False,0.03,2.5e-10,0.000108,9e-13,10549.6,7.03606,dentro da amostra (segmento único),True,69,47.6,
+jaru,chuvosa,art2,A1_seca,40,1.2,1e-08,False,0.207722,3.28006e-09,0.0007478,1.18082e-11,802.32,2.3721,teste (janelas),False,60,63.6,-0.931493
+jaru,chuvosa,art1,A1_chuvosa,4,0.2,1e-08,False,0.285776,3.98802e-09,0.00102879,1.43569e-11,661.331,2.85582,dentro da amostra (segmento único),False,204,47.6,
+jaru,chuvosa,art2,A1_chuvosa,4,0.2,1e-08,False,0.207719,3.28001e-09,0.000747787,1.1808e-11,802.334,2.3721,teste (janelas),False,48,63.6,-0.931486
+jaru,chuvosa,art1,dados,40,0.491255,7.15725e-09,False,0.492688,6.94588e-09,0.00177368,2.50052e-11,379.707,2.85779,dentro da amostra (segmento único),False,147,47.6,
+jaru,chuvosa,art2,dados,40,0.491255,7.15725e-09,False,0.207722,3.28005e-09,0.000747798,1.18082e-11,802.323,2.3721,teste (janelas),False,60,63.6,-0.931492
+jaru,seca,art1,A1_seca,40,1.2,1e-08,False,1.16538,2.03741e-08,0.00419535,7.33467e-11,125.444,3.67415,dentro da amostra (segmento único),False,165,51.4,
+jaru,seca,art2,A1_seca,40,1.2,1e-08,False,1.18609,2.0609e-08,0.00426994,7.41924e-11,124.878,3.80639,teste (janelas),False,42,60,0.730701
+jaru,seca,art1,A1_chuvosa,4,0.2,1e-08,False,0.170204,3.14375e-09,0.000612734,1.13175e-11,812.981,4.10918,dentro da amostra (segmento único),False,300,51.4,
+jaru,seca,art2,A1_chuvosa,4,0.2,1e-08,False,0.8,1.39564e-08,0.00288,5.02431e-11,184.403,3.73636,teste (janelas),True,51,60,1.91207
+jaru,seca,art1,dados,40,0.862178,1.61267e-08,False,0.875737,1.54822e-08,0.00315265,5.57358e-11,165.081,3.19532,dentro da amostra (segmento único),False,135,51.4,
+jaru,seca,art2,dados,40,0.862178,1.61267e-08,False,1.18609,2.0609e-08,0.00426994,7.41924e-11,124.878,3.80639,teste (janelas),False,42,60,0.730702
+cuieiras,seca,art1,A1_seca,40,1.2,1e-08,False,1.15081,2.14223e-08,0.00414292,7.71203e-11,120.181,16.2903,dentro da amostra (segmento único),False,282,57.5,
+cuieiras,seca,art2,A1_seca,40,1.2,1e-08,False,0.133502,3.62159e-09,0.000480608,1.30377e-11,714.123,4.3828,teste (janelas),False,114,65,3.48421
+cuieiras,seca,art1,A1_chuvosa,4,0.2,1e-08,False,0.124514,2.5e-09,0.000448249,9e-12,1029.83,5.95158,dentro da amostra (segmento único),True,156,57.5,
+cuieiras,seca,art2,A1_chuvosa,4,0.2,1e-08,False,0.133504,3.62164e-09,0.000480615,1.30379e-11,714.115,4.38279,teste (janelas),False,60,65,3.4842
+cuieiras,seca,art1,dados,40,0.494023,9.93239e-09,False,0.0123506,2.4831e-10,4.44621e-05,8.93915e-13,10368.4,4.73105,dentro da amostra (segmento único),True,78,57.5,
+cuieiras,seca,art2,dados,40,0.494023,9.93239e-09,False,0.133503,3.62162e-09,0.000480612,1.30378e-11,714.118,4.38279,teste (janelas),False,54,65,3.48421
+cuieiras,chuvosa,art1,A1_seca,40,1.2,1e-08,False,1.1566,2.32041e-08,0.00416377,8.35347e-11,111.21,4.38419,dentro da amostra (segmento único),False,159,20.8,
+cuieiras,chuvosa,art2,A1_seca,40,1.2,1e-08,False,0.03,1.89847e-09,0.000108,6.8345e-12,1368.34,4.75909,teste (janelas),True,84,31.7,-3.72842
+cuieiras,chuvosa,art1,A1_chuvosa,4,0.2,1e-08,False,0.10376,2.5e-09,0.000373536,9e-12,1032.21,3.30719,dentro da amostra (segmento único),True,102,20.8,
+cuieiras,chuvosa,art2,A1_chuvosa,4,0.2,1e-08,False,0.0649725,2.5e-09,0.000233901,9e-12,1039.11,4.56253,teste (janelas),True,45,31.7,-3.55621
+cuieiras,chuvosa,art1,dados,40,0.454475,9.81483e-09,False,0.459718,9.39766e-09,0.00165499,3.38316e-11,274.591,2.9145,dentro da amostra (segmento único),False,138,20.8,
+cuieiras,chuvosa,art2,dados,40,0.454475,9.81483e-09,False,0.0271103,1.85041e-09,9.75971e-05,6.66147e-12,1403.89,4.77809,teste (janelas),False,141,31.7,-3.74522
+sinop,seca,art1,A1_seca,40,1.2,1e-08,False,0.0398655,2.5e-10,0.000143516,9e-13,10318.8,5.41529,dentro da amostra (segmento único),True,81,30,
+sinop,seca,art2,A1_seca,40,1.2,1e-08,False,0.85969,9.84452e-09,0.00309488,3.54403e-11,263.113,6.21084,teste (janelas),False,45,40,3.24506
+sinop,seca,art1,A1_chuvosa,4,0.2,1e-08,False,0.322673,3.839e-09,0.00116162,1.38204e-11,671.97,5.0845,dentro da amostra (segmento único),False,204,30,
+sinop,seca,art2,A1_chuvosa,4,0.2,1e-08,False,0.8,8.99598e-09,0.00288,3.23855e-11,287.931,6.16308,teste (janelas),True,45,40,2.98351
+sinop,seca,art1,dados,40,1.47593,2.00781e-08,False,1.49738,1.89579e-08,0.00539057,6.82486e-11,136.074,4.85541,dentro da amostra (segmento único),False,159,30,
+sinop,seca,art2,dados,40,1.47593,2.00781e-08,False,0.859687,9.84447e-09,0.00309487,3.54401e-11,263.114,6.21084,teste (janelas),False,54,40,3.24504
+mujui,terrestre,art1,A1_seca,40,1.2,1e-08,False,1.16468,1.93037e-08,0.00419285,6.94935e-11,134.441,8.1195,dentro da amostra (segmento único),False,186,93.5,
+mujui,terrestre,art2,A1_seca,40,1.2,1e-08,False,0.03,1.49828e-09,0.000108,5.39382e-12,1732.06,2.39402,teste (janelas),True,72,65,0.131362
+mujui,terrestre,art1,A1_chuvosa,4,0.2,1e-08,False,0.144984,2.5e-09,0.000521944,9e-12,1038.09,3.21336,dentro da amostra (segmento único),True,150,93.5,
+mujui,terrestre,art2,A1_chuvosa,4,0.2,1e-08,False,0.0848751,2.5e-09,0.00030555,9e-12,1038.04,2.48763,teste (janelas),True,48,65,0.000400822
+mujui,terrestre,art1,dados,40,0.338108,5.93605e-09,False,0.341027,5.67646e-09,0.0012277,2.04353e-11,457.19,4.04958,dentro da amostra (segmento único),False,150,93.5,
+mujui,terrestre,art2,dados,40,0.338108,5.93605e-09,False,0.0084527,1.132e-09,3.04297e-05,4.07519e-12,2292.5,2.37237,teste (janelas),True,69,65,0.139448
+mujui,inundada,art1,A1_seca,40,1.2,1e-08,False,1.16324,1.96673e-08,0.00418768,7.08021e-11,131.628,8.51587,dentro da amostra (segmento único),False,186,81.6,
+mujui,inundada,art2,A1_seca,40,1.2,1e-08,False,0.0373701,8.14379e-10,0.000134532,2.93176e-12,3180.62,2.07776,teste (janelas),False,78,55,-0.0385021
+mujui,inundada,art1,A1_chuvosa,4,0.2,1e-08,False,0.147362,2.5e-09,0.000530502,9e-12,1035.51,2.61924,dentro da amostra (segmento único),True,159,81.6,
+mujui,inundada,art2,A1_chuvosa,4,0.2,1e-08,False,0.127788,2.5e-09,0.000460035,9e-12,1036.09,2.13698,teste (janelas),True,39,55,-0.041592
+mujui,inundada,art1,dados,40,0.271496,4.77909e-09,False,0.272812,4.62433e-09,0.000982122,1.66476e-11,559.815,3.85898,dentro da amostra (segmento único),False,195,81.6,
+mujui,inundada,art2,dados,40,0.271496,4.77909e-09,False,0.0373725,8.14421e-10,0.000134541,2.93192e-12,3180.45,2.07775,teste (janelas),False,66,55,-0.0384976

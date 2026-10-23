@@ -1,0 +1,8 @@
+sitio,estacao,dias_validacao,q05_K,q95_K,largura_IC90_K,cobertura_teste
+jaru,chuvosa,12.6,-2.189,1.094,3.283,0.7897
+jaru,seca,14.9,-3.021,2.391,5.412,0.8327
+cuieiras,seca,17.5,-1.731,3.544,5.276,0.8078
+cuieiras,chuvosa,5,-2.534,0.4054,2.939,0.4972
+sinop,seca,6.9,-5.192,2.083,7.275,0.8566
+mujui,terrestre,10,-1.109,1.317,2.426,0.9071
+mujui,inundada,10,-0.6855,1.153,1.839,0.5612
