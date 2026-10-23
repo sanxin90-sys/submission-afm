@@ -1,0 +1,10 @@
+# Versions used to test the package (Python 3.13). Older recent versions should also work.
+numpy>=2.0        # tested 2.5.3
+pandas>=2.2       # tested 3.0.5
+scipy>=1.13       # tested 1.18.1
+matplotlib>=3.8   # tested 3.11.2
+pillow
+torch>=2.0        # only for fit_nn_correction, bootstrap_nn, fit_ude, artigo1_aplicado, replica_artigo1, series_teste, simulacao_continua
+xlrd>=2.0         # raw files only (preprocess, jaru_anos, alturas)
+openpyxl>=3.1     # raw files only
+geopandas         # Fig. 1 map only
